@@ -12,4 +12,4 @@ java -jar petclinic/target/petclinic-2.2.2.BUILD-SNAPSHOT.jar
 mvn --file petclinic-selenium/pom.xml -DskipTests install
 mvn -Dtest=PetclinicTest --file petclinic-selenium/pom.xml -Dbrowser=chrome -Dheadless=false test
 ```
-
+zmena
